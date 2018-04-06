@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1026972262126",
+    "firebase_url": "https://sweet-spicy.firebaseio.com",
+    "project_id": "sweet-spicy",
+    "storage_bucket": "sweet-spicy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026972262126:android:e57be067546049ce",
+        "android_client_info": {
+          "package_name": "com.example.sourour.sweetspicy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026972262126-pdffso6kppuiscn64bhr0ul1s26v31j4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sourour.sweetspicy",
+            "certificate_hash": "4680a5c7804a298409c78629f04865e877550306"
+          }
+        },
+        {
+          "client_id": "1026972262126-mmafqlm12gp33kmjmv6kvc230im9j7l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBarMQUhhuLqFPdjk4LSF154S7RQHe95vc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026972262126-mmafqlm12gp33kmjmv6kvc230im9j7l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
